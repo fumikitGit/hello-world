@@ -1,3 +1,3 @@
 # hello-world
 
-Branchで加筆しました。
+削除後、この行を追加
